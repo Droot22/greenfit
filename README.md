@@ -2,7 +2,7 @@
 
 **GreenFit** é uma landing page moderna e responsiva para uma plataforma de fitness online com um propósito ambiental transformador: **a cada inscrição ou mensalidade paga, uma árvore é plantada**.
 
-📌 **Acesse o projeto online:** [greenfit.vercel.app](https://greenfit.vercel.app) (substitua pelo link real quando publicar)
+📌 **Acesse o projeto online:** [(https://droot22.github.io/greenfit/) (substitua pelo link real quando publicar)
 
 ---
 
